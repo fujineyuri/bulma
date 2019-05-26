@@ -16,6 +16,16 @@
       "icon": "eye",
       "path": "/documentation/overview"
     },
+
+    "all": {
+      "name": "All",
+      "subtitle": "All references",
+      "color": "primary",
+      "icon": "eye",
+      "path": "/documentation/all"
+    },
+
+
     "overview-start": {
       "name": "Start",
       "subtitle": "You only need <strong>1 CSS file</strong> to use Bulma",
